@@ -42,7 +42,7 @@ content: |
   We're going to be working with:
 
   * ruby 1.9.2 installed via rvm (mac or linux) or railsinstaller (windows)
-  * rails 3.0.x (**note:** _not_ rails 3.1!)
+  * rails 3.1.x
   * bundler
   * sqlite
   * the text editor of your choice
@@ -51,7 +51,7 @@ content: |
   install-fest. Please ensure you have everything working _before_ you
   show up for railsbridge on Saturday.
 
-  You can verify that you have everything working by trying this out in your terminal:
+  You can verify that you have everything working by trying the commands below out in your terminal. When you see a `$` or `>>` that means type everything after it. When you see `=>` that is the expected result of what you typed.
 
       $ irb
       >> 1 + 2
@@ -68,7 +68,7 @@ content: |
   I highly recommend you do the following:
 
   * Bring up your terminal and open 2 tabs:
-    * One is for regular terminal stuffs
+    * One is for regular terminal stuf
     * One will be for irb (aka rails console). We'll explain later
   * Open your browser fresh or hide any windows you already have open.
     * Bring up one window with two tabs
